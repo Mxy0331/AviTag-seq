@@ -1,0 +1,10 @@
+PyYAML
+numpy
+pyfaidx
+swalign
+tqdm
+wordcloud
+matplotlib
+xlwt
+svgwrite
+pytest

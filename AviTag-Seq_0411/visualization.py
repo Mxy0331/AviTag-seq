@@ -178,7 +178,7 @@ def main():
             title = None
         visualizeOfftargets(sys.argv[1], sys.argv[2], title=title)
     else:
-        print 'Usage: python visualization.py INFILE OUTFILE [TITLE]'
+        print('Usage: python visualization.py INFILE OUTFILE [TITLE]')
 
 
 if __name__ == '__main__':
